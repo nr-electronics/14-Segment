@@ -1,0 +1,2 @@
+../Core/Src/led.c:4:6:segchar	16	static
+../Core/Src/led.c:57:6:ledprint	16	static

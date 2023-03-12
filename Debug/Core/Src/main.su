@@ -1,0 +1,9 @@
+../Core/Src/main.c:58:6:pound	4	static
+../Core/Src/main.c:66:6:pound2	4	static
+../Core/Src/main.c:74:6:digits	4	static
+../Core/Src/main.c:81:6:digits2	4	static
+../Core/Src/main.c:94:5:main	8	static
+../Core/Src/main.c:149:6:SystemClock_Config	72	static
+../Core/Src/main.c:189:13:MX_TIM3_Init	48	static
+../Core/Src/main.c:237:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:296:6:Error_Handler	4	static,ignoring_inline_asm
